@@ -37,6 +37,6 @@ At the top of the code there are some setting to be adapted to your needs:
 ## Images
 ![Image1](/images/image1.jpg)
 
-![Image2](/images/image1.jpg)
+![Image2](/images/image2.jpg)
 
 ![Video1](/images/video1.jpg)
